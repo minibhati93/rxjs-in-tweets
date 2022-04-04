@@ -11,5 +11,5 @@ This is the collection of my tweets on RxJS
 | distinctUntilChanged | https://twitter.com/devminibhati/status/1501593623473037315?s=20&t=W1w93Yo6QproOxPgYpJXCQ | https://codesandbox.io/s/distinct-until-changed-v1-6mmtr6
 | switchMap            | https://twitter.com/devminibhati/status/1503764017269325828?s=20&t=jyx_LrEfSTzB--z9jsEUmA | https://codesandbox.io/s/switch-map-v1-glcoj0
 | forkJoin             | https://twitter.com/devminibhati/status/1505957494522544128?s=20&t=Hp8YX0UlJ-qDT7pCZzzQqg | https://codesandbox.io/s/forkjoin-v1-tvwk9c
-| combineLatest        |
+| combineLatest        | https://twitter.com/devminibhati/status/1510969880883134464?s=20&t=99TwuVURkNTidN21tDg5gQ | https://codesandbox.io/s/debouncetime-rxjs-q4kom
 | concatMap            |
