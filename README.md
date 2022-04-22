@@ -12,12 +12,12 @@ This is the collection of my tweets on RxJS
 
 
 ### Transform
-| Operator             | Tweet                                                                           | Working Example                   |
-|----------- |-------------------------------------------------------------------------------------------|-----------------------------------|
+| Operator             | Tweet                                                                           | Working Example                              |
+|----------- |-------------------------------------------------------------------------------------------|----------------------------------------------|
 | concatMap  |
 | switchMap  | https://twitter.com/devminibhati/status/1503764017269325828?s=20&t=jyx_LrEfSTzB--z9jsEUmA | https://codesandbox.io/s/switch-map-v1-glcoj0
 | exhaustMap |
-| mergeMap   | https://twitter.com/devminibhati/status/1517544116191580161?s=20&t=Ind22hiUk1r-QOgCb6wc-A |          
+| mergeMap   | https://twitter.com/devminibhati/status/1517544116191580161?s=20&t=Ind22hiUk1r-QOgCb6wc-A | https://codesandbox.io/s/merge-map-v1-lv5bom |
 
 ### Combination
 | Operator             | Tweet                                                                                     | Working Example                   |
